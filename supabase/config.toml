@@ -1,0 +1,7 @@
+project_id = "kwwxljpcyvprpscviedp"
+
+[functions.weather-data]
+verify_jwt = false
+
+[functions.weather-greeting]
+verify_jwt = false
