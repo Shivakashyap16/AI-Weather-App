@@ -114,5 +114,5 @@ This project is licensed under the **MIT License** — you may use, modify, and 
 
 ---
 
-> Built with 💙 using **React, Tailwind and Supabase**
+> Built with 💙 using **React, Tailwind, Supabase and AI**
 
